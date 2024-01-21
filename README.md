@@ -7,7 +7,7 @@
 ### Exercicio 2 - Ana
 ### Exercicio 3 - Priscila Nakayama
 ### Exercicio 4 - Marcella Amazonas
-### Exercicio 5 - 
+### Exercicio 5 - Andréia Martins Ferreira
 ### Exercicio 6 - Priscila Nakayama
 ### Exercicio 7 - 
 ### Exercicio 8 - 
@@ -21,14 +21,14 @@
 ### Exercicio 4 - 
 ### Exercicio 5 - 
 ### Exercicio 6 - 
-### Exercicio 7 - 
+### Exercicio 7 - Andréia Martins Ferreira
 ### Exercicio 8 - 
 ### Exercicio 9 - Priscila Nakayama
 ### Exercicio 10 - 
 
 ## Lista 3
 ### Exercicio 1 - 
-### Exercicio 2 - 
+### Exercicio 2 - Andréia Martins Ferreira
 ### Exercicio 3 - 
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - 
@@ -37,8 +37,8 @@
 
 ## Lista 4
 ### Exercicio 1 - 
-### Exercicio 2 - 
+### Exercicio 2 - Andréia Martins Ferreira
 ### Exercicio 3 - 
-### Exercicio 4 -  Marcella Amazonas
+### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Priscila Nakayama
 ### Exercicio 6 - 
