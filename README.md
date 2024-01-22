@@ -15,7 +15,7 @@
 ### Exercicio 10 - 
 
 ## Lista 2
-### Exercicio 1 - 
+### Exercicio 1 - Mileine Maciel
 ### Exercicio 2 - Marcella Amazonas
 ### Exercicio 3 - 
 ### Exercicio 4 - 
