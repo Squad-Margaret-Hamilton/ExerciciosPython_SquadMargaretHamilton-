@@ -9,7 +9,7 @@
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Andréia Martins Ferreira
 ### Exercicio 6 - Priscila Nakayama
-### Exercicio 7 - 
+### Exercicio 7 - Mileine Maciel
 ### Exercicio 8 - 
 ### Exercicio 9 - 
 ### Exercicio 10 - 
