@@ -11,8 +11,8 @@
 ### Exercicio 6 - Priscila Nakayama
 ### Exercicio 7 - Mileine Maciel
 ### Exercicio 8 - Mileine Maciel
-### Exercicio 9 - 
-### Exercicio 10 - 
+### Exercicio 9 - Larissa de Albuquerque Santos
+### Exercicio 10 - Larissa de Albuquerque Santos
 
 ## Lista 2
 ### Exercicio 1 - Mileine Maciel
