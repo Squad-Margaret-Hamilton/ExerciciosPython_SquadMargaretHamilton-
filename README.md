@@ -10,7 +10,7 @@
 ### Exercicio 5 - Andréia Martins Ferreira
 ### Exercicio 6 - Priscila Nakayama
 ### Exercicio 7 - Mileine Maciel
-### Exercicio 8 - 
+### Exercicio 8 - Mileine Maciel
 ### Exercicio 9 - 
 ### Exercicio 10 - 
 
