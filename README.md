@@ -36,7 +36,7 @@
 
 
 ## Lista 4
-### Exercicio 1 - 
+### Exercicio 1 - Mileine Maciel
 ### Exercicio 2 - Andréia Martins Ferreira
 ### Exercicio 3 - 
 ### Exercicio 4 - Marcella Amazonas
