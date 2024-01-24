@@ -17,7 +17,7 @@
 ## Lista 2
 ### Exercicio 1 - Mileine Maciel
 ### Exercicio 2 - Marcella Amazonas
-### Exercicio 3 - 
+### Exercicio 3 - Manoela Micheli Farias
 ### Exercicio 4 - 
 ### Exercicio 5 - 
 ### Exercicio 6 - 
