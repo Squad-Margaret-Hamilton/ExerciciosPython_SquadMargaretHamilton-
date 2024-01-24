@@ -19,12 +19,12 @@
 ### Exercicio 2 - Marcella Amazonas
 ### Exercicio 3 - Manoela Micheli Farias
 ### Exercicio 4 - Manoela Micheli Farias
-### Exercicio 5 - 
+### Exercicio 5 - Larissa de Albuquerque Santos
 ### Exercicio 6 - Manoela Micheli Farias
 ### Exercicio 7 - Andréia Martins Ferreira
 ### Exercicio 8 - Manoela Micheli Farias
 ### Exercicio 9 - Priscila Nakayama
-### Exercicio 10 - 
+### Exercicio 10 - Larissa de Albuquerque Santos
 
 ## Lista 3
 ### Exercicio 1 - 
