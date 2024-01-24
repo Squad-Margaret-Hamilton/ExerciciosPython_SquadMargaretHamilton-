@@ -20,9 +20,9 @@
 ### Exercicio 3 - Manoela Micheli Farias
 ### Exercicio 4 - Manoela Micheli Farias
 ### Exercicio 5 - 
-### Exercicio 6 - 
+### Exercicio 6 - Manoela Micheli Farias
 ### Exercicio 7 - Andréia Martins Ferreira
-### Exercicio 8 - 
+### Exercicio 8 - Manoela Micheli Farias
 ### Exercicio 9 - Priscila Nakayama
 ### Exercicio 10 - 
 
