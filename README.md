@@ -27,7 +27,7 @@
 ### Exercicio 10 - Larissa de Albuquerque Santos
 
 ## Lista 3
-### Exercicio 1 - 
+### Exercicio 1 - Larissa de Albuquerque Santos
 ### Exercicio 2 - Andréia Martins Ferreira
 ### Exercicio 3 - 
 ### Exercicio 4 - Marcella Amazonas
