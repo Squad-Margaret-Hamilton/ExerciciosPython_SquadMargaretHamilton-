@@ -4,7 +4,7 @@
 
 ## Lista 1
 ### Exercicio 1 - Marcella Amazonas
-### Exercicio 2 - Ana
+### Exercicio 2 - Ana Letícia Lopes
 ### Exercicio 3 - Priscila Nakayama
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Andréia Martins Ferreira
