@@ -29,7 +29,7 @@
 ## Lista 3
 ### Exercicio 1 - Larissa de Albuquerque Santos
 ### Exercicio 2 - Andréia Martins Ferreira
-### Exercicio 3 - 
+### Exercicio 3 - Ana Letícia Lopes
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Mileine Maciel
 ### Exercicio 6 - Priscila Nakayama
