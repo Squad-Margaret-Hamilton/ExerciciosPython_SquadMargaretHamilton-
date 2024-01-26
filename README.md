@@ -41,4 +41,4 @@
 ### Exercicio 3 - Priscila Nakayama
 ### Exercicio 4 - Marcella Amazonas
 ### Exercicio 5 - Priscila Nakayama
-### Exercicio 6 - 
+### Exercicio 6 - Andréia Martins Ferreira
